@@ -1,0 +1,2 @@
+# PictureConvertToBlack
+此软件可将图片批量转换为黑白
